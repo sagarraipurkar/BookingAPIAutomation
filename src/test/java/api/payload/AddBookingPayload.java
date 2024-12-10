@@ -9,7 +9,7 @@ public class AddBookingPayload {
 	public static String addbookingpayload() {
 
 	String paylod = "{\r\n"
-			+ "    \"firstname\" : \"Domnic\",\r\n"
+			+ "    \"firstname\" : \"John\",\r\n"
 			+ "    \"lastname\" : \"Doe\",\r\n"
 			+ "    \"totalprice\" : \"10000\",\r\n"
 			+ "    \"depositpaid\" : true,\r\n"
